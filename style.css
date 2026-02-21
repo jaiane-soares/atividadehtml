@@ -1,0 +1,24 @@
+*{
+margin:0; padding:0; box-sizing: border-box;
+} 
+
+body {
+    /* config a imagem de fundo */
+
+    background-image: url(/img/Paisagem.jpeg); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+    
+    display: flex;  
+    flex-direction: column; /*alinha*/
+    min-height: 100vh;
+    padding-top: 20px;    /*dar espaço da margem*/
+
+    
+
+}
+
