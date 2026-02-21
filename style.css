@@ -18,7 +18,15 @@ body {
     min-height: 100vh;
     padding-top: 20px;    /*dar espaço da margem*/
 
-    
+
 
 }
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    text-align: left;
+}
+
+
 
